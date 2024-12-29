@@ -8,6 +8,11 @@
 body{
     background-color: rgb(247, 201, 244);
 }
-#nstr{
+.nstr{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
     text-align: center;
 }
